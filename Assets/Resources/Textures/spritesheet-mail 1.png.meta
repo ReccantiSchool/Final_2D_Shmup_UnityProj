@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 4e3aa6036782f480eba685bc21058dd2
+timeCreated: 1493693853
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet-mail 1_0
+    21300002: spritesheet-mail 1_1
+    21300004: spritesheet-mail 1_2
+    21300006: spritesheet-mail 1_3
+    21300008: spritesheet-mail 1_4
+    21300010: spritesheet-mail 1_5
+    21300012: spritesheet-mail 1_6
+    21300014: spritesheet-mail 1_7
+    21300016: spritesheet-mail 1_8
+    21300018: spritesheet-mail 1_9
+    21300020: spritesheet-mail 1_10
+    21300022: spritesheet-mail 1_11
+    21300024: spritesheet-mail 1_12
+    21300026: spritesheet-mail 1_13
+    21300028: spritesheet-mail 1_14
+    21300030: spritesheet-mail 1_15
+    21300032: spritesheet-mail 1_16
+    21300034: spritesheet-mail 1_17
+    21300036: spritesheet-mail 1_18
+    21300038: spritesheet-mail 1_19
+    21300040: spritesheet-mail 1_20
+    21300042: spritesheet-mail 1_21
+    21300044: spritesheet-mail 1_22
+    21300046: spritesheet-mail 1_23
+    21300048: spritesheet-mail 1_24
+    21300050: spritesheet-mail 1_25
+    21300052: spritesheet-mail 1_26
+    21300054: spritesheet-mail 1_27
+    21300056: spritesheet-mail 1_28
+    21300058: spritesheet-mail 1_29
+    21300060: spritesheet-mail 1_30
+    21300062: spritesheet-mail 1_31
+    21300064: spritesheet-mail 1_32
+    21300066: spritesheet-mail 1_33
+    21300068: spritesheet-mail 1_34
+    21300070: spritesheet-mail 1_35
+    21300072: spritesheet-mail 1_36
+    21300074: spritesheet-mail 1_37
+    21300076: spritesheet-mail 1_38
+    21300078: spritesheet-mail 1_39
+    21300080: spritesheet-mail 1_40
+    21300082: spritesheet-mail 1_41
+    21300084: spritesheet-mail 1_42
+    21300086: spritesheet-mail 1_43
+    21300088: spritesheet-mail 1_44
+    21300090: spritesheet-mail 1_45
+    21300092: spritesheet-mail 1_46
+    21300094: spritesheet-mail 1_47
+    21300096: spritesheet-mail 1_48
+    21300098: spritesheet-mail 1_49
+    21300100: spritesheet-mail 1_50
+    21300102: spritesheet-mail 1_54
+    21300104: spritesheet-mail 1_53
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet-mail 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1793
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1793
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1793
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1793
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1793
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1793
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1793
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1793
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1537
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1537
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1537
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1537
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1537
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1537
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1537
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1537
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1281
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1025
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_46
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_47
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-mail 1_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
